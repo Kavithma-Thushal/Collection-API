@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/list/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/collectionframework-03/list/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/collectionframework-03.iml" filepath="$PROJECT_DIR$/collectionframework-03/collectionframework-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/generics-02.iml" filepath="$PROJECT_DIR$/generics-02/generics-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/map/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/collectionframework-03/map/hashmap/hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/set/hashset/hashset.iml" filepath="$PROJECT_DIR$/collectionframework-03/set/hashset/hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/map/linkedhashmap/linkedhashmap.iml" filepath="$PROJECT_DIR$/collectionframework-03/map/linkedhashmap/linkedhashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/set/linkedhashset/linkedhashset.iml" filepath="$PROJECT_DIR$/collectionframework-03/set/linkedhashset/linkedhashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/list/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/collectionframework-03/list/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/list/list.iml" filepath="$PROJECT_DIR$/collectionframework-03/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/map/map.iml" filepath="$PROJECT_DIR$/collectionframework-03/map/map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/set/set.iml" filepath="$PROJECT_DIR$/collectionframework-03/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/map/treemap/treemap.iml" filepath="$PROJECT_DIR$/collectionframework-03/map/treemap/treemap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionframework-03/set/treeset/treeset.iml" filepath="$PROJECT_DIR$/collectionframework-03/set/treeset/treeset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/withgenerics/withgenerics.iml" filepath="$PROJECT_DIR$/generics-02/withgenerics/withgenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/withoutgenerics/withoutgenerics.iml" filepath="$PROJECT_DIR$/generics-02/withoutgenerics/withoutgenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapperclass-01/wrapperclass-01.iml" filepath="$PROJECT_DIR$/wrapperclass-01/wrapperclass-01.iml" />
+    </modules>
+  </component>
+</project>
