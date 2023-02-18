@@ -5,6 +5,8 @@
 
 public class IndexOutOfBoundExceptionDemo {
     public static void main(String[] args) {
+
+        //ArrayIndexOutOfBoundsException
         int[] data = new int[5];
 
         data[0] = 10;
@@ -13,6 +15,19 @@ public class IndexOutOfBoundExceptionDemo {
         try {
             data[5] = 60;
         }catch (ArrayIndexOutOfBoundsException er) {
+            System.out.println(er);
+        }
+
+        //-------------------
+
+        //StringIndexOutOfBoundsException
+        String name = "My name is danuja";
+        System.out.println(name.charAt(0));
+        System.out.println(name.charAt(4));
+
+        try{
+            System.out.println(name.charAt(18));
+        }catch (StringIndexOutOfBoundsException er) {
             System.out.println(er);
         }
     }
