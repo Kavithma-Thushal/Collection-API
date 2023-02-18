@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/collectionframework-03/list/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/collectionframework-03/list/arraylist/arraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionframework-03/collectionframework-03.iml" filepath="$PROJECT_DIR$/collectionframework-03/collectionframework-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception-04/exception-04.iml" filepath="$PROJECT_DIR$/exception-04/exception-04.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics-02/generics-02.iml" filepath="$PROJECT_DIR$/generics-02/generics-02.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionframework-03/map/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/collectionframework-03/map/hashmap/hashmap.iml" />
       <module fileurl="file://$PROJECT_DIR$/collectionframework-03/set/hashset/hashset.iml" filepath="$PROJECT_DIR$/collectionframework-03/set/hashset/hashset.iml" />
