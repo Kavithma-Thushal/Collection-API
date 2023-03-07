@@ -11,14 +11,20 @@ public class CatchLadderDemo {
     public static void main(String[] args) {
         File file = new File("abc.txt");
 
+        /*try {
+            if(!file.exists()) file.createNewFile();    //IOException
+
+            Class.forName("Customer");  //ClassNotFoundException
+        } catch (IOException | ClassNotFoundException e) {
+            System.out.println(e);
+        }*/
         try {
             if(!file.exists()) file.createNewFile();    //IOException
 
             Class.forName("Customer");  //ClassNotFoundException
-        } catch (IOException e) {
+        } catch (Exception e) {
             System.out.println(e);
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
         }
+
     }
 }
